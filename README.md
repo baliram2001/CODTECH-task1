@@ -6,9 +6,9 @@ Duration: 5 Oct - 5 Nov
 Mentor: Neela Santhos Kumar                                                       
 
 
-Overview Of The Project                                                           
-Project:  To-Do List                                                             
-
+Overview Of The Project        ![screenshot](https://github.com/user-attachments/assets/71a2849a-b994-45f4-87a1-d805f598d27f)
+                                                   
+Project:  To-Do List           
 Objective:                                                                        
   1. Design and develop a user-friendly To-Do List application.                      
   2. Allow users to create, edit, and delete tasks.                             
